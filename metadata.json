@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Portal Pelancongan Kedah update",
+  "description": "Sistem maklumat tempat pelancongan interaktif di negeri Kedah, lengkap dengan peta interaktif, penapis kategori, kalkulator harga tiket, dan pembantu pelancongan AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
